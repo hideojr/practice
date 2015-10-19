@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu Sep 24 22:58:23 CST 2015：
+ 正在使用類別載入器 sun.misc.Launcher$AppClassLoader@23f9e6e5 啟動資料庫
+目錄 D:\Data Area\William\Projects\DB\testdb  中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258) 實例 a816c00e-014f-ffdc-c6ad-000006edeaf0
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b17
+user.dir=D:\Data Area\William\Projects\Java7\Eclipse\workspace\Java7 Practice
+derby.system.home=null
+已啟動「資料庫類別載入器」- derby.database.classpath= ''
