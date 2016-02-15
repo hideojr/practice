@@ -14,6 +14,7 @@ import hideojr.practice.ch3.sub.Practice_ChildA;
 public class Practice_Father {
 	
 	String name = "William";
+	protected final String name1 = "Hi, there.";
 	
 	public static void main(String[] args) {
 		Practice_Father obj1 = new Practice_ChildA();
